@@ -26,6 +26,13 @@ form{
       }
       
         
-    
-    
-    
+    #d{
+      width: 500px;
+    }
+    body  {
+      width: fit-content;
+      height: 100%;
+    }
+    #navbar{
+      margin-bottom: 500px;
+    }
